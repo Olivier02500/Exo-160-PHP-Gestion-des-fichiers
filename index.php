@@ -6,7 +6,7 @@
  * --> Attention à bien fermer votre fichier si vous utilisez fopen()
  */
 // TODO Votre code ici.
-
+$lorem = " Lorem ipsum dolor sit amet, consectetur adipisicing elit. ";
 
 /**
  * 3. Créez un tableau contenant au moins 10 chaînes de caractère au choix.
